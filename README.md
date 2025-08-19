@@ -4,7 +4,7 @@ OpenSearch Dashboards with security plugin disabled for use in local projects.
 
 # Docker Hub
 
-Pushed to Docker Hub as [wwright/opensearch-dashboards-no-security:2.12.0](https://hub.docker.com/r/wwright/opensearch-dashboards-no-security)
+Pushed to Docker Hub as [wwright/opensearch-dashboards-no-security:3](https://hub.docker.com/r/wwright/opensearch-dashboards-no-security)
 
 ## Notes
 
